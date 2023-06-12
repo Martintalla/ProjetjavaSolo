@@ -1,0 +1,7 @@
+target/
+*.classs
+*/settib=ngs/*
+.settings
+.project 
+*.jar
+*.war
